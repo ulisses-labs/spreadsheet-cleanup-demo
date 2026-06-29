@@ -1,0 +1,88 @@
+lead_id,name,email,phone,city,source,created_at
+1,Maria Silva,maria.silva@example.com,11999998888,Sao Paulo,Instagram,2026-01-03
+2,Joao Santos,joao.santos@example.com,11988887777,Rio De Janeiro,Website,2026-01-04
+3,Ana Costa,ana.costa@example.com,5531977776666,Belo Horizonte,Referral,2026-01-05
+4,Pedro Almeida,pedro.almeida@example.com,21966665555,Rio De Janeiro,Google Ads,2026-01-06
+5,Carla Ferreira,carla.ferreira@example.com,41955554444,Curitiba,Google Ads,2026-01-07
+6,Lucas Martins,lucas.martins@example.com,51944443333,Porto Alegre,Google,2026-01-08
+7,Fernanda Lima,fernanda.lima@example.com,,Salvador,Instagram,2026-01-09
+8,Rafael Souza,rafael.souza@example.com,81933332222,Recife,Website,2026-01-10
+9,Juliana Rocha,juliana.rocha@example.com,85922221111,Fortaleza,Referral,2026-01-11
+10,Bruno Gomes,bruno.gomes@example.com,61911110000,Brasilia,Referral,2026-01-12
+11,Camila Dias,camila.dias@example.com,62900001111,Goiania,Website,2026-01-13
+12,Marcos Nunes,marcos.nunes@example.com,71988887777,Salvador,Instagram,2026-01-14
+13,Patricia Melo,patricia.melo@example.com,5521977776666,Rio De Janeiro,Referral,2026-01-15
+14,Diego Castro,diego.castro@example.com,11912345678,Sao Paulo,Website,2026-01-16
+15,Aline Ribeiro,aline.ribeiro@example.com,31912345678,Belo Horizonte,Google Ads,2026-01-17
+16,Thiago Alves,thiago.alves@example.com,48987654321,Florianopolis,Google,2026-01-18
+17,Renata Barros,renata.barros@example.com,27976543210,Vitoria,Instagram,2026-01-19
+18,Gustavo Pinto,gustavo.pinto@example.com,34965432109,Uberlandia,Website,2026-01-20
+19,Vanessa Moraes,vanessa.moraes@example.com,19954321098,Campinas,Referral,2026-01-21
+20,Andre Teixeira,andre.teixeira@example.com,11999998888,Sao Paulo,Instagram,2026-01-22
+23,Roberta Campos,roberta.campos@example.com,11910101010,Sao Paulo,Website,2026-01-25
+24,Felipe Araujo,felipe.araujo@example.com,85920202020,Fortaleza,Website,2026-01-26
+25,Mariana Farias,mariana.farias@example.com,71930303030,Salvador,Referral,2026-01-27
+26,Henrique Lopes,henrique.lopes@example.com,5561940404040,Brasilia,Google,2026-01-28
+27,Beatriz Cardoso,beatriz.cardoso@example.com,31950505050,Belo Horizonte,Instagram,2026-01-29
+28,Paulo Mendes,paulo.mendes@example.com,51960606060,Porto Alegre,Google Ads,2026-01-30
+29,Isabela Torres,isabela.torres@example.com,81970707070,Recife,Referral,2026-01-31
+30,Vitor Ramos,vitor.ramos@example.com,21980808080,Rio De Janeiro,Website,2026-02-01
+31,Larissa Oliveira,larissa.oliveira@example.com,11919191919,Sao Paulo,Instagram,2026-02-02
+32,Daniel Barbosa,daniel.barbosa@example.com,41928282828,Curitiba,Website,2026-02-03
+33,Priscila Xavier,priscila.xavier@example.com,61937373737,Brasilia,Google Ads,2026-02-04
+34,Igor Batista,igor.batista@example.com,5531948484848,Belo Horizonte,Referral,2026-02-05
+35,Monica Freitas,monica.freitas@example.com,,Campinas,Website,2026-02-06
+36,Leandro Cunha,leandro.cunha@example.com,85959595959,Fortaleza,Instagram,2026-02-07
+37,Sabrina Martins,sabrina.martins@example.com,71906060606,Salvador,Google,2026-02-08
+38,Caio Pereira,caio.pereira@example.com,51917171717,Porto Alegre,Referral,2026-02-09
+39,Tatiana Correia,tatiana.correia@example.com,81926262626,Recife,Website,2026-02-10
+40,Eduardo Matos,eduardo.matos@example.com,21935353535,Rio De Janeiro,Google Ads,2026-02-11
+41,Helena Martins,helena.martins@example.com,11946464646,Sao Paulo,Website,2026-02-12
+42,Fabio Vieira,fabio.vieira@example.com,41975757575,Curitiba,Instagram,2026-02-13
+43,Luana Pires,luana.pires@example.com,31968686868,Belo Horizonte,Referral,2026-02-14
+44,Rodrigo Figueira,rodrigo.figueira@example.com,61979797979,Brasilia,Website,2026-02-15
+45,Natalia Reis,natalia.reis@example.com,71989898989,Salvador,Google,2026-02-16
+46,Cesar Monteiro,cesar.monteiro@example.com,85990909090,Fortaleza,Referral,2026-02-17
+47,Simone Duarte,simone.duarte@example.com,81921212121,Recife,Website,2026-02-18
+48,Alexandre Neves,alexandre.neves@example.com,51932323232,Porto Alegre,Instagram,2026-02-19
+49,Debora Antunes,debora.antunes@example.com,5519934343434,Campinas,Google Ads,2026-02-20
+50,Otavio Sales,otavio.sales@example.com,21954545454,Rio De Janeiro,Referral,2026-02-21
+51,Raquel Moreira,raquel.moreira@example.com,11956565656,Sao Paulo,Website,2026-02-22
+52,Mateus Fonseca,mateus.fonseca@example.com,41967676767,Curitiba,Google Ads,2026-02-23
+53,Leticia Nogueira,leticia.nogueira@example.com,31978787878,Belo Horizonte,Website,2026-02-24
+54,Samuel Tavares,samuel.tavares@example.com,61989898989,Brasilia,Instagram,2026-02-25
+55,Barbara Assis,barbara.assis@example.com,71990909090,Salvador,Referral,2026-02-26
+56,Miguel Carvalho,miguel.carvalho@example.com,85901010101,Fortaleza,Google,2026-02-27
+57,Claudia Peixoto,claudia.peixoto@example.com,81912121212,Recife,Website,2026-02-28
+58,Everton Machado,everton.machado@example.com,51923232323,Porto Alegre,Referral,2026-03-01
+59,Paula Guimaraes,paula.guimaraes@example.com,19934343434,Campinas,Website,2026-03-02
+60,Danilo Rezende,danilo.rezende@example.com,21945454545,Rio De Janeiro,Instagram,2026-03-03
+61,Elisa Brito,elisa.brito@example.com,11956565656,Sao Paulo,Google Ads,2026-03-04
+62,Renan Macedo,renan.macedo@example.com,41967670000,Curitiba,Referral,2026-03-05
+63,Marina Batista,marina.batista@example.com,31978780000,Belo Horizonte,Website,2026-03-06
+64,Arthur Vieira,arthur.vieira@example.com,,Brasilia,Website,2026-03-07
+65,Solange Lima,solange.lima@example.com,71990900000,Salvador,Instagram,2026-03-08
+66,Ricardo Prado,ricardo.prado@example.com,85901000000,Fortaleza,Google,2026-03-09
+67,Flavia Andrade,flavia.andrade@example.com,81912000000,Recife,Referral,2026-03-10
+68,Marcelo Braga,marcelo.braga@example.com,51923000000,Porto Alegre,Website,2026-03-11
+69,Adriana Falcao,adriana.falcao@example.com,19934000000,Campinas,Website,2026-03-12
+70,Leonardo Martins,leonardo.martins@example.com,21945000000,Rio De Janeiro,Instagram,2026-03-13
+71,Julia Carvalho,julia.carvalho@example.com,11956000000,Sao Paulo,Google Ads,2026-03-14
+72,Gabriel Rocha,gabriel.rocha@example.com,41967000000,Curitiba,Referral,2026-03-15
+73,Sofia Marques,sofia.marques@example.com,31978000000,Belo Horizonte,Website,2026-03-16
+74,Ramon Duarte,ramon.duarte@example.com,61989000000,Brasilia,Website,2026-03-17
+75,Cintia Moura,cintia.moura@example.com,71990000000,Salvador,Instagram,2026-03-18
+85,Espaco Email,espacoemail@example.com,19955554444,Campinas,Referral,2026-03-28
+88,Origem Diferente,origem.diferente@example.com,11922221111,Sao Paulo,Linkedin,2026-03-31
+89,Cidade Espaco,cidade.espaco@example.com,41911110000,Curitiba,Website,2026-04-01
+90,Fonte Site,fonte.site@example.com,31900001111,Belo Horizonte,Website,2026-04-02
+91,Fonte Website,fonte.website@example.com,61922223333,Brasilia,Website,2026-04-03
+92,Fonte Insta,fonte.insta@example.com,71944445555,Salvador,Instagram,2026-04-04
+93,Fonte Google Ads,fonte.googleads@example.com,85966667777,Fortaleza,Google Ads,2026-04-05
+94,Fonte Indicacao,fonte.indicacao@example.com,81988889999,Recife,Referral,2026-04-06
+95,Sem Telefone,sem.telefone@example.com,,Porto Alegre,Referral,2026-04-07
+96,Caixa Alta,caixa.alta@example.com,19912121212,Campinas,Google,2026-04-08
+97,Nome Com Espacos,nome.espacos@example.com,21934341212,Rio De Janeiro,Website,2026-04-09
+98,Telefone Simbolos,telefone.simbolos@example.com,5511987654321,Sao Paulo,Instagram,2026-04-10
+99,Lead Final,lead.final@example.com,41912345678,Curitiba,Website,2026-04-11
+100,Lead Extra,lead.extra@example.com,31998765432,Belo Horizonte,Referral,2026-04-12

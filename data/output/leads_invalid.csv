@@ -1,0 +1,9 @@
+lead_id,name,email,phone,city,source,created_at
+77,,sem.nome@example.com,11911112222,Sao Paulo,Website,2026-03-20
+78,Email Ausente,,11933334444,Curitiba,Google,2026-03-21
+79,Email Ruim,email-invalido,11955556666,Belo Horizonte,Instagram,2026-03-22
+80,Outro Email Ruim,outro.email.invalido,11977778888,Brasilia,Website,2026-03-23
+81,Nome Sem Email,,71999990000,Salvador,Referral,2026-03-24
+82,,vazio.nome@example.com,85988887777,Fortaleza,Google Ads,2026-03-25
+83,Campo Ruim,campo@@example.com,81977776666,Recife,Website,2026-03-26
+84,Dominio Ruim,dominio@example,51966665555,Porto Alegre,Instagram,2026-03-27
