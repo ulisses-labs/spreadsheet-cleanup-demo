@@ -6,6 +6,12 @@ This demo shows how a messy lead spreadsheet can be cleaned, deduplicated, norma
 
 It is intentionally small: one CSV input, one Python script, one clean CSV output, one invalid-records CSV, and one Markdown report.
 
+## Demo Walkthrough
+
+Want the quick client-facing explanation?
+
+Read the [Demo Walkthrough](docs/demo-walkthrough.md) to see what goes in, what the script does, what comes out, and how to validate the result.
+
 ## Problem
 
 Lead spreadsheets often arrive with inconsistent formatting, duplicate contacts, missing required fields, and values that are hard to review reliably. Even a simple file can become risky when names, emails, phone numbers, cities, and lead sources are written in many different ways.
