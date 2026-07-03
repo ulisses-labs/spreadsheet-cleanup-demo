@@ -12,6 +12,15 @@ Want the quick client-facing explanation?
 
 Read the [Demo Walkthrough](docs/demo-walkthrough.md) to see what goes in, what the script does, what comes out, and how to validate the result.
 
+## Client Review
+
+If you are reviewing this as a potential client, start here:
+
+- [Client Case Study](docs/client-case-study.md): business-oriented explanation of the problem, solution, and value.
+- [Service Scope](docs/service-scope.md): what this type of service includes and excludes.
+- [Buyer FAQ](docs/buyer-faq.md): common questions before adapting this demo to a real project.
+- [Demo Walkthrough](docs/demo-walkthrough.md): practical explanation of input, processing, output, and validation.
+
 ## Problem
 
 Lead spreadsheets often arrive with inconsistent formatting, duplicate contacts, missing required fields, and values that are hard to review reliably. Even a simple file can become risky when names, emails, phone numbers, cities, and lead sources are written in many different ways.
